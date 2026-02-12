@@ -1,0 +1,5 @@
+{
+  "name": "AI 悦读 - 智能小说听书器",
+  "description": "一款唯美的小说阅读器，利用 Gemini TTS 技术将您的 TXT 或 NB 文本转化为极具感染力的有声小说。",
+  "requestFramePermissions": []
+}
